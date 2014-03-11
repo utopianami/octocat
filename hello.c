@@ -5,5 +5,6 @@ int main(void) {
 	printf("Hello, youngnam\n");
 	printf("Bye, youngnam\n");
 	printf("I'm hungry\n");
+	printf("Bye, git\n");
 	return 0;
 }
